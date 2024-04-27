@@ -10,7 +10,7 @@ Representation d'une serie temporelle a partir de 5 jeux de donnees distinct fai
 
 ## Installation
 
-After cloning the project, install Nodej.s with its framework Express.js
+Après avoir cloné le projet, l'installation de NumPy, Matplotlib et Pandas est faite.
 
 ## installation de numpy
 ```bash
