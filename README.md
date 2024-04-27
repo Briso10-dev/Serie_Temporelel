@@ -27,7 +27,7 @@ pip install pandas
     
 ## Running Tests
 
-EN utilisant l'editeur de code Anaconda ou Jupyter, le script est compilez en tout ou cellule par cellule.
+En utilisant l'editeur de code Anaconda ou Jupyter, le script est compilez en tout ou cellule par cellule.
 
 
 ## Authors
